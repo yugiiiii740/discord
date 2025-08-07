@@ -7,7 +7,7 @@ module.exports = {
 
   async execute(interaction) {
     const embed = new EmbedBuilder()
-      .setTitle('🎟️ NOVA JB - DESTEK SISTEMI')
+      .setTitle('🎟️ REVOLT JB - DESTEK SISTEMI')
       .setDescription('👋 Merhaba! Aşağıdan ihtiyacın olan destek kategorisini seçerek bize ulaşabilirsin.\n\n__**📌 Ticket Kuralları:**__\n🔒 • Yanlış kategoriye açılan talepler kapatılır\n🚫 • Yetkililere etiket atma')
       .setColor('Blurple');
 
